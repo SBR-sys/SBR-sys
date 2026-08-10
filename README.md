@@ -18,63 +18,27 @@
 
 ## 💡 About Me
 
-I believe technology should solve real problems and make things simpler.
+I enjoy turning ideas into working software and learning by building.
 
 I'm a **Computer Science Engineering student** interested in **backend
 development, artificial intelligence, computer vision, and web development**.
-I enjoy learning by building projects, experimenting with different
-technologies, and turning ideas into working software.
+I like experimenting with different technologies, understanding how systems
+work behind the scenes, and building projects that solve practical problems.
 
-I'm particularly interested in understanding how applications work behind
-the scenes — from designing APIs and databases to integrating AI and
-computer vision into practical applications.
-
-I enjoy taking an idea from **concept → development → testing → working
-application**, while continuously improving my technical and problem-solving
-skills.
+My current focus is on strengthening my software engineering fundamentals,
+improving my problem-solving skills, and gaining more hands-on experience
+through real-world projects.
 
 ---
 
 ## 🚀 Tech Stack & Interests
 
-### Programming Languages
-
-- Python
-- Java
-- C
-- C++
-
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-
-- FastAPI
-- Flask
-- REST APIs
-
-### AI & Computer Vision
-
-- YOLOv8
-- OpenCV
-- Machine Learning fundamentals
-- Computer Vision
-
-### Databases
-
-- MySQL
-- MongoDB
-- PostgreSQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+- **Languages:** Python, Java, C, C++
+- **Web:** HTML, CSS, JavaScript
+- **Backend:** FastAPI, Flask, REST APIs
+- **AI & Computer Vision:** YOLOv8, OpenCV
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
@@ -82,37 +46,32 @@ skills.
 
 ### 🎯 FrameSense — AI-Powered FPS Game Performance Analyzer
 
-**FrameSense** is a web-based AI system designed to analyze FPS gameplay
-using computer vision and deep learning techniques.
+An AI-powered web application that analyzes FPS gameplay using
+**YOLOv8 and OpenCV** to provide gameplay and performance insights.
 
-The project uses a **pre-trained and fine-tuned YOLOv8 model** together
-with OpenCV to process gameplay frames and extract useful performance
-information.
-
-#### What I Built
+**What I worked on:**
 
 - Developed a web-based system for FPS gameplay analysis.
-- Integrated YOLOv8 for in-game object detection.
-- Used OpenCV for frame processing and computer vision operations.
+- Integrated a pre-trained and fine-tuned YOLOv8 model for object detection.
+- Used OpenCV for gameplay frame processing and computer vision operations.
 - Analyzed gameplay frames to generate performance-related insights.
 - Implemented FPS and latency-related performance metrics.
-- Built backend APIs using FastAPI.
-- Designed an interactive dashboard for visualizing gameplay analytics.
+- Built FastAPI backend APIs for the analysis pipeline.
+- Developed an interactive dashboard for visualizing gameplay analytics.
 
 **Tech Stack:**  
 `Python` `YOLOv8` `OpenCV` `FastAPI` `HTML` `CSS` `JavaScript`
 
 [GitHub Repository](#)
 
----
 
 ### 🎮 Gaming Café Management System
 
 A web-based management platform designed to simplify gaming café
-operations by managing customers, bookings, gaming systems, sessions,
-and billing.
+operations including customer bookings, system allocation, session
+management, and billing.
 
-#### What I Built
+**What I worked on:**
 
 - Developed customer booking management.
 - Implemented gaming system/station allocation.
@@ -120,7 +79,6 @@ and billing.
 - Designed a billing workflow for café operations.
 - Designed a relational database for structured record management.
 - Developed backend APIs for managing café operations.
-- Focused on simplifying day-to-day gaming café management.
 
 **Tech Stack:**  
 `Python` `FastAPI` `MySQL` `HTML` `CSS`
@@ -130,9 +88,6 @@ and billing.
 ---
 
 ## 🌱 Currently Learning
-
-I'm currently working on strengthening my software engineering fundamentals
-and expanding my practical development experience.
 
 - Data Structures & Algorithms
 - Backend Development
@@ -160,12 +115,12 @@ Encoders Club, supporting the planning and execution of the event.
 ### 🏆 Smart India Hackathon
 
 Participated in **Smart India Hackathon**, collaborating with a team
-to work on a problem-solving challenge under hackathon constraints.
+to work on a problem-solving challenge.
 
 ### 👨‍💻 Google Developer Group
 
 Participated in **Google Developer Group workshops and sessions** focused
-on modern development practices, technologies, and the developer ecosystem.
+on modern development practices and technologies.
 
 ---
 
@@ -173,28 +128,27 @@ on modern development practices, technologies, and the developer ecosystem.
 
 - **Problem Solving** — I enjoy breaking complex problems into smaller,
   manageable parts.
-- **Quick Learning** — I like exploring new technologies through practical
-  projects.
-- **Team Collaboration** — Comfortable working with teams and contributing
-  to shared technical goals.
+- **Quick Learning** — I learn new technologies through hands-on projects
+  and experimentation.
+- **Team Collaboration** — Comfortable working with teams toward shared
+  technical goals.
 - **Leadership** — Experience coordinating technical activities through
   my role in Encoders Club.
-- **Adaptability** — Willing to learn, experiment, and improve when working
-  with unfamiliar technologies.
-- **Curiosity** — Interested in understanding how systems work rather than
-  simply using them.
+- **Adaptability** — Comfortable exploring unfamiliar technologies and
+  learning along the way.
+- **Curiosity** — Interested in understanding how systems work and how they
+  can be improved.
 
 ---
 
 ## 💭 What I'm Working Towards
 
-I'm working towards becoming a stronger **software engineer** by improving
-my problem-solving skills, building practical applications, and gaining
-deeper experience in backend development, AI, and computer vision.
+I'm working towards becoming a stronger **software engineer** by building
+practical applications, improving my problem-solving abilities, and
+developing deeper skills in backend development, AI, and computer vision.
 
-My goal is to keep turning ideas into projects that demonstrate not only
-what I can build, but also how I approach problems and learn new
-technologies.
+I believe the best way to learn technology is to **build, experiment,
+make mistakes, and improve**.
 
 > **Learn by building. Improve by experimenting. Grow by solving problems.**
 
