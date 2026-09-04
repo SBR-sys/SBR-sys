@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Sumukh B - Developer Banner">
+  <img src="./github_banner.png" width="100%" alt="Sumukh B - Developer Banner">
 </p>
 
 <!-- ===================== INTRO ===================== -->
