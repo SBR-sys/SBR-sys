@@ -6,23 +6,7 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">👋 Hello, World! I'm Sumukh B :)</h1>
 
-<p align="center">
-  Computer Science Engineering Student
-</p>
-
-<p align="center">
-  Backend Development • Artificial Intelligence • Computer Vision • Web Development
-</p>
-
-<p align="center">
-  <a href="https://github.com/SBR-sys">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/">LinkedIn</a>
-  •
-  <a href="mailto:sumukhbrampure@gmail.com">Email</a>
-</p>
 
 ---
 
