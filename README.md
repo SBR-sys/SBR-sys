@@ -1,16 +1,26 @@
+<!-- ===================== BANNER ===================== -->
+
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Sumukh B - Developer Banner">
+</p>
+
+<!-- ===================== INTRO ===================== -->
+
 <h1 align="center">👋 Hello, World! I'm Sumukh B :)</h1>
 
 <p align="center">
   Computer Science Engineering Student
-  <br>
-  Backend Development • Artificial Intelligence • Computer Vision
+</p>
+
+<p align="center">
+  Backend Development • Artificial Intelligence • Computer Vision • Web Development
 </p>
 
 <p align="center">
   <a href="https://github.com/SBR-sys">GitHub</a>
-  &nbsp; • &nbsp;
+  •
   <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/">LinkedIn</a>
-  &nbsp; • &nbsp;
+  •
   <a href="mailto:sumukhbrampure@gmail.com">Email</a>
 </p>
 
@@ -18,72 +28,135 @@
 
 ## 💡 About Me
 
-I enjoy turning ideas into working software and learning by building.
+I'm a Computer Science Engineering student who enjoys turning ideas into working software.
 
-I'm a **Computer Science Engineering student** interested in **backend
-development, artificial intelligence, computer vision, and web development**.
-I like experimenting with different technologies, understanding how systems
-work behind the scenes, and building projects that solve practical problems.
+I'm particularly interested in **backend development, artificial intelligence, computer vision, and web development**. I enjoy learning technologies by building practical projects and understanding how systems work behind the scenes.
 
-My current focus is on strengthening my software engineering fundamentals,
-improving my problem-solving skills, and gaining more hands-on experience
-through real-world projects.
+Currently, I'm focused on improving my **software engineering fundamentals, problem-solving skills, backend development, and real-world development experience**.
 
 ---
 
-## 🚀 Tech Stack & Interests
+## 🚀 Tech Stack
 
-- **Languages:** Python, Java, C, C++
-- **Web:** HTML, CSS, JavaScript
-- **Backend:** FastAPI, Flask, REST APIs
-- **AI & Computer Vision:** YOLOv8, OpenCV
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Postman
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask" />
+</p>
+
+### AI & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+**Technologies:** YOLOv8 • OpenCV • Computer Vision • Machine Learning
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🏗️ Highlight Projects
+## 🏗️ Featured Projects
 
 ### 🎯 FrameSense — AI-Powered FPS Game Performance Analyzer
 
-An AI-powered web application that analyzes FPS gameplay using
-**YOLOv8 and OpenCV** to provide gameplay and performance insights.
+An AI-powered web application that analyzes FPS gameplay using **YOLOv8 and OpenCV** to generate gameplay and performance insights.
 
-**What I worked on:**
+**Tech:** `Python` `YOLOv8` `OpenCV` `FastAPI` `JavaScript`
 
-- Developed a web-based system for FPS gameplay analysis.
-- Integrated a pre-trained and fine-tuned YOLOv8 model for object detection.
-- Used OpenCV for gameplay frame processing and computer vision operations.
-- Analyzed gameplay frames to generate performance-related insights.
-- Implemented FPS and latency-related performance metrics.
-- Built FastAPI backend APIs for the analysis pipeline.
-- Developed an interactive dashboard for visualizing gameplay analytics.
+- Gameplay frame analysis
+- Object detection using YOLOv8
+- FPS and latency metrics
+- FastAPI backend
+- Interactive analytics dashboard
 
-**Tech Stack:**  
-`Python` `YOLOv8` `OpenCV` `FastAPI` `HTML` `CSS` `JavaScript`
+🔗 **[GitHub Repository](#)**
 
-[GitHub Repository](#)
+---
 
+### 🎮 Mystic Arcade — Gaming Café Management System
 
-### 🎮 Gaming Café Management System
+A web-based management system designed to simplify gaming café operations such as **customer bookings, system allocation, session management, and billing**.
 
-A web-based management platform designed to simplify gaming café
-operations including customer bookings, system allocation, session
-management, and billing.
+**Tech:** `Python` `FastAPI` `MySQL` `HTML` `CSS`
 
-**What I worked on:**
+- Customer booking management
+- Gaming station allocation
+- Session management
+- Billing workflow
+- Database-driven backend
 
-- Developed customer booking management.
-- Implemented gaming system/station allocation.
-- Added session management functionality.
-- Designed a billing workflow for café operations.
-- Designed a relational database for structured record management.
-- Developed backend APIs for managing café operations.
+🔗 **[GitHub Repository](https://github.com/SBR-sys)**
 
-**Tech Stack:**  
-`Python` `FastAPI` `MySQL` `HTML` `CSS`
+---
 
-[GitHub Repository](#)
+### 🦷 OralGuard — AI-Based Oral Health Detection
+
+An ongoing computer vision project focused on detecting oral conditions from images using deep learning and object detection techniques.
+
+The system is being designed to work with images captured from **different angles and orientations**, improving robustness in real-world usage.
+
+**Tech:** `Python` `YOLO` `OpenCV` `Computer Vision`
+
+🚧 **Currently Under Development**
+
+---
+
+## 💼 Experience
+
+### Software Development Intern — CodeFlurry Technologies
+
+**September 2026 – Present**
+
+Working as a Software Development Intern, gaining hands-on experience in software development, backend technologies, application development, debugging, and real-world development workflows.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Science Engineering**
+
+Currently pursuing my degree with a focus on software development, artificial intelligence, and computer vision.
+
+---
+
+## 📜 Certifications
+
+- **The Full Stack** — Meta / Coursera
+- **Machine Learning with Python** — IBM / Coursera
+- **Introduction to AI** — Google / Coursera
+- **Web Development in React.js: Development Basics** — Coursera
+
+---
+
+## 🌟 Leadership & Activities
+
+### 👨‍💼 Secretary — Encoders Club
+
+Serving as the **Secretary of the Computer Engineering Department Club — Encoders**, contributing to technical activities, student initiatives, and club coordination.
+
+### 💡 College Ideathon
+
+Contributed to organizing a **college-level Ideathon** through the Encoders Club, supporting event planning and execution.
+
+### 🏆 Smart India Hackathon
+
+Participated in **Smart India Hackathon**, collaborating with a team to work on a problem-solving challenge.
+
+### 👨‍💻 Google Developer Group
+
+Participated in **Google Developer Group workshops and sessions** focused on modern development practices and technologies.
 
 ---
 
@@ -93,81 +166,54 @@ management, and billing.
 - Backend Development
 - REST API Development
 - Database Design
-- Machine Learning fundamentals
+- Software Engineering
+- Machine Learning Fundamentals
 - Computer Vision
-- Software Engineering Practices
-
----
-
-## 🌟 Outside of Code
-
-### 👨‍💼 Secretary — Encoders Club
-
-Serving as the **Secretary of the Computer Engineering Department Club —
-Encoders**, contributing to technical activities, student initiatives,
-and club coordination.
-
-### 💡 College Ideathon
-
-Contributed to organizing a **college-level Ideathon** through the
-Encoders Club, supporting the planning and execution of the event.
-
-### 🏆 Smart India Hackathon
-
-Participated in **Smart India Hackathon**, collaborating with a team
-to work on a problem-solving challenge.
-
-### 👨‍💻 Google Developer Group
-
-Participated in **Google Developer Group workshops and sessions** focused
-on modern development practices and technologies.
 
 ---
 
 ## 🧠 What I Bring
 
-- **Problem Solving** — I enjoy breaking complex problems into smaller,
-  manageable parts.
-- **Quick Learning** — I learn new technologies through hands-on projects
-  and experimentation.
-- **Team Collaboration** — Comfortable working with teams toward shared
-  technical goals.
-- **Leadership** — Experience coordinating technical activities through
-  my role in Encoders Club.
-- **Adaptability** — Comfortable exploring unfamiliar technologies and
-  learning along the way.
-- **Curiosity** — Interested in understanding how systems work and how they
-  can be improved.
+- **Problem Solving** — Breaking complex problems into smaller, manageable parts.
+- **Quick Learning** — Learning technologies through hands-on development.
+- **Team Collaboration** — Working effectively toward shared technical goals.
+- **Leadership** — Experience coordinating technical activities through student initiatives.
+- **Adaptability** — Comfortable learning unfamiliar technologies.
+- **Curiosity** — Interested in understanding how systems work and improving them.
 
 ---
 
-## 💭 What I'm Working Towards
+## 📊 GitHub Stats
 
-I'm working towards becoming a stronger **software engineer** by building
-practical applications, improving my problem-solving abilities, and
-developing deeper skills in backend development, AI, and computer vision.
-
-I believe the best way to learn technology is to **build, experiment,
-make mistakes, and improve**.
-
-> **Learn by building. Improve by experimenting. Grow by solving problems.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SBR-sys&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBR-sys&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SBR-sys&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/SBR-sys">
-  <img src="https://img.shields.io/badge/GitHub-SBR--sys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-SBR--sys-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sumukh%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Sumukh%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:sumukhbrampure@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
