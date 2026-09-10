@@ -1,117 +1,119 @@
-<!-- ===================== BANNER ===================== -->
-
 <p align="center">
-  <img src="./banner_github.png" width="100%" alt="Sumukh B - Developer Banner">
+  <img src="./banner_github.png" width="100%" alt="Sumukh B Rampure - Developer Banner">
 </p>
-
-<!-- ===================== INTRO ===================== -->
-
-
 
 ---
 
-## 💡 About Me
+## 👋 About Me
 
-I'm a Computer Science Engineering student who enjoys turning ideas into working software.
+I'm **Sumukh B Rampure**, a Computer Science Engineering student passionate about building practical software solutions.
 
-I'm particularly interested in **backend development, artificial intelligence, computer vision, and web development**. I enjoy learning technologies by building practical projects and understanding how systems work behind the scenes.
+My interests include **backend development, artificial intelligence, computer vision, APIs, databases, and software engineering**.
 
-Currently, I'm focused on improving my **software engineering fundamentals, problem-solving skills, backend development, and real-world development experience**.
+I enjoy learning by building projects, solving problems, and exploring technologies that can be applied to real-world use cases.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask" />
-</p>
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### AI & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
-
-**Technologies:** YOLOv8 • OpenCV • Computer Vision • Machine Learning
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### AI & Computer Vision
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Featured Projects
 
-### 🎯 FrameSense — AI-Powered FPS Game Performance Analyzer
+### 🎮 FrameSense
+**AI-Powered FPS Game Performance Analyzer**
 
-An AI-powered web application that analyzes FPS gameplay using **YOLOv8 and OpenCV** to generate gameplay and performance insights.
+- Analyzes FPS gameplay using **YOLOv8 and OpenCV**.
+- Extracts gameplay and performance metrics.
+- Built a **FastAPI backend** with a web-based dashboard.
+- Secured **3rd Place** at the Mini Project Expo 2026.
 
-**Tech:** `Python` `YOLOv8` `OpenCV` `FastAPI` `JavaScript`
-
-- Gameplay frame analysis
-- Object detection using YOLOv8
-- FPS and latency metrics
-- FastAPI backend
-- Interactive analytics dashboard
-
-🔗 **[GitHub Repository](#)**
+**Tech:** Python · YOLOv8 · OpenCV · FastAPI · HTML · CSS · JavaScript
 
 ---
 
-### 🎮 Mystic Arcade — Gaming Café Management System
+### 🎮 Mystic Arcade
+**Gaming Café Management System**
 
-A web-based management system designed to simplify gaming café operations such as **customer bookings, system allocation, session management, and billing**.
+- Manages customer bookings and gaming stations.
+- Handles gaming sessions and billing.
+- Uses a database-driven backend for managing café operations.
+- Built with a focus on practical backend and database development.
 
-**Tech:** `Python` `FastAPI` `MySQL` `HTML` `CSS`
-
-- Customer booking management
-- Gaming station allocation
-- Session management
-- Billing workflow
-- Database-driven backend
-
-🔗 **[GitHub Repository](https://github.com/SBR-sys)**
+**Tech:** Python · FastAPI · MySQL · HTML · CSS
 
 ---
 
-### 🦷 OralGuard — AI-Based Oral Health Detection
+### 🦷 OralGuard
+**AI-Based Oral Health Detection System**
 
-An ongoing computer vision project focused on detecting oral conditions from images using deep learning and object detection techniques.
+Currently under development.
 
-The system is being designed to work with images captured from **different angles and orientations**, improving robustness in real-world usage.
+- Uses computer vision to analyze oral images.
+- Designed around object detection using YOLO.
+- Focused on handling images captured from different angles and orientations.
+- Aims to assist with early identification of visible oral conditions.
 
-**Tech:** `Python` `YOLO` `OpenCV` `Computer Vision`
-
-🚧 **Currently Under Development**
+**Tech:** Python · YOLO · OpenCV · Computer Vision
 
 ---
 
 ## 💼 Experience
 
-### Software Development Intern — CodeFlurry Technologies
+### Software Development Intern
+**CodeFlurry Technologies**  
+September 2026 – Present
 
-**September 2026 – Present**
-
-Working as a Software Development Intern, gaining hands-on experience in software development, backend technologies, application development, debugging, and real-world development workflows.
+Currently gaining hands-on experience in software development and working with real-world development workflows.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Computer Science Engineering**
+### Bachelor of Engineering — Computer Science Engineering
+**Maharaja Institute of Technology, Mysore**  
+2022 – Present  
+**CGPA:** 7.5 / 10.0
 
-Currently pursuing my degree with a focus on software development, artificial intelligence, and computer vision.
+### Pre-University Education — Science
+**Pramati Hill View Academy, Mysore**  
+2020 – 2022  
+**Percentage:** 85.0%
+
+### Secondary School — SSLC
+**Sri Adichunchanagiri Central School, Mysore**  
+2010 – 2020  
+**Percentage:** 92.0%
 
 ---
 
@@ -124,90 +126,81 @@ Currently pursuing my degree with a focus on software development, artificial in
 
 ---
 
-## 🌟 Leadership & Activities
+## 🏆 Achievements
 
-### 👨‍💼 Secretary — Encoders Club
+### 🥉 3rd Place — Mini Project Expo 2026
 
-Serving as the **Secretary of the Computer Engineering Department Club — Encoders**, contributing to technical activities, student initiatives, and club coordination.
+Presented **FrameSense**, an AI-powered FPS gameplay analyzer using YOLOv8, OpenCV, and FastAPI, and secured **3rd place** at the college-level Mini Project Expo.
 
-### 💡 College Ideathon
-
-Contributed to organizing a **college-level Ideathon** through the Encoders Club, supporting event planning and execution.
-
-### 🏆 Smart India Hackathon
-
-Participated in **Smart India Hackathon**, collaborating with a team to work on a problem-solving challenge.
-
-### 👨‍💻 Google Developer Group
-
-Participated in **Google Developer Group workshops and sessions** focused on modern development practices and technologies.
+**Maharaja Institute of Technology, Mysore**  
+Department of Computer Engineering  
+**14 January 2026**
 
 ---
 
-## 🌱 Currently Learning
+## 👥 Leadership & Activities
+
+### Secretary — Encoders Club
+- Coordinated technical events and club activities.
+- Contributed to planning and organizing a campus-wide Ideathon.
+
+### College Ideathon
+- Contributed to organizing and coordinating the event.
+
+### Smart India Hackathon
+- Participated in the national-level innovation and problem-solving initiative.
+
+### Google Developer Group
+- Participated in technical workshops and developer sessions.
+
+---
+
+## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Backend Development
 - REST API Development
 - Database Design
-- Software Engineering
+- Software Engineering Practices
 - Machine Learning Fundamentals
 - Computer Vision
 
 ---
 
-## 🧠 What I Bring
+## 💡 What I Bring
 
-- **Problem Solving** — Breaking complex problems into smaller, manageable parts.
-- **Quick Learning** — Learning technologies through hands-on development.
-- **Team Collaboration** — Working effectively toward shared technical goals.
-- **Leadership** — Experience coordinating technical activities through student initiatives.
-- **Adaptability** — Comfortable learning unfamiliar technologies.
-- **Curiosity** — Interested in understanding how systems work and improving them.
+- Problem Solving
+- Quick Learning
+- Team Collaboration
+- Leadership
+- Critical Thinking
+- Adaptability
+- Curiosity
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SBR-sys&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBR-sys&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=SBR-sys&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBR-sys&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SBR-sys&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/SBR-sys">
-  <img src="https://img.shields.io/badge/GitHub-SBR--sys-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sumukh%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:sumukhbrampure@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://github.com/SBR-sys">
+    <img src="https://img.shields.io/badge/GitHub-SBR--sys-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumukh%20B%20Rampure-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <i>Always learning. Always building.</i>
-</p>
-
-<p align="center">
-  👋 Thanks for visiting my profile!
 </p>
