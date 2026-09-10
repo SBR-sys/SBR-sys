@@ -86,74 +86,7 @@ Currently under development.
 
 **Tech:** Python · YOLO · OpenCV · Computer Vision
 
----
 
-## 💼 Experience
-
-### Software Development Intern
-**CodeFlurry Technologies**  
-September 2026 – Present
-
-Currently gaining hands-on experience in software development and working with real-world development workflows.
-
----
-
-## 🎓 Education
-
-### Bachelor of Engineering — Computer Science Engineering
-**Maharaja Institute of Technology, Mysore**  
-2022 – Present  
-**CGPA:** 7.5 / 10.0
-
-### Pre-University Education — Science
-**Pramati Hill View Academy, Mysore**  
-2020 – 2022  
-**Percentage:** 85.0%
-
-### Secondary School — SSLC
-**Sri Adichunchanagiri Central School, Mysore**  
-2010 – 2020  
-**Percentage:** 92.0%
-
----
-
-## 📜 Certifications
-
-- **The Full Stack** — Meta / Coursera
-- **Machine Learning with Python** — IBM / Coursera
-- **Introduction to AI** — Google / Coursera
-- **Web Development in React.js: Development Basics** — Coursera
-
----
-
-## 🏆 Achievements
-
-### 🥉 3rd Place — Mini Project Expo 2026
-
-Presented **FrameSense**, an AI-powered FPS gameplay analyzer using YOLOv8, OpenCV, and FastAPI, and secured **3rd place** at the college-level Mini Project Expo.
-
-**Maharaja Institute of Technology, Mysore**  
-Department of Computer Engineering  
-**14 January 2026**
-
----
-
-## 👥 Leadership & Activities
-
-### Secretary — Encoders Club
-- Coordinated technical events and club activities.
-- Contributed to planning and organizing a campus-wide Ideathon.
-
-### College Ideathon
-- Contributed to organizing and coordinating the event.
-
-### Smart India Hackathon
-- Participated in the national-level innovation and problem-solving initiative.
-
-### Google Developer Group
-- Participated in technical workshops and developer sessions.
-
----
 
 ## 📚 Currently Learning
 
