@@ -61,7 +61,19 @@ I enjoy learning by building projects, solving problems, and exploring technolog
 **Tech:** Python · YOLOv8 · OpenCV · FastAPI · HTML · CSS · JavaScript
 
 ---
+### 🩸 Blood Bank Management System
 
+**Role-Based Blood Bank Inventory & Request Management Platform**
+
+- Built a centralized system for managing donors, donations, hospitals, staff, and blood inventory.
+- Implemented **role-based access control** for Admin, Coordinator, and Nurse users.
+- Developed **inventory-aware blood request fulfillment** with availability and expiry validation.
+- Added **search & filtering, expiry tracking, temperature monitoring, and dashboard analytics**.
+- Connected the complete workflow from **donation → inventory → hospital request → fulfillment**.
+
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript · XAMPP
+
+---
 ### 🎮 Mystic Arcade
 **Gaming Café Management System**
 
