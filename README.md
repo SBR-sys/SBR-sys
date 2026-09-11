@@ -96,7 +96,7 @@ Currently under development.
 - Focused on handling images captured from different angles and orientations.
 - Aims to assist with early identification of visible oral conditions.
 
-**Tech:** Python · YOLO · OpenCV · Computer Vision
+**Tech:** Python · CNN · OpenCV · Computer Vision
 
 
 
