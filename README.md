@@ -1,51 +1,17 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.svg">
-    <img src="./assets/hero.svg" alt="Sumukh B — AI/ML Engineer, Full-Stack Developer, Creative Technologist" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://sbr-sys.github.io/SBR_portfolio/"><img src="./assets/btn-portfolio.svg" alt="Portfolio: sbr-sys.github.io"></a>
-  <a href="https://github.com/SBR-sys"><img src="./assets/btn-github.svg" alt="GitHub: SBR-sys"></a>
-  <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn: sumukh-b-rampure"></a>
-  <a href="mailto:sumukhbrampure@gmail.com"><img src="./assets/btn-email.svg" alt="Email: sumukhbrampure@gmail.com"></a>
-</p>
-
-<img src="./assets/sec-about.svg" alt="01 · about: Hello, I’m Sumukh." width="100%">
+<p align="center"> <picture> <source media="(prefers-reduced-motion: reduce)" srcset="./hero-static.svg"> <img src="./hero.svg" alt="Sumukh B — AI/ML Engineer, Full-Stack Developer, Creative Technologist" width="100%"> </picture> </p> <p align="center"> <a href="https://sbr-sys.github.io/SBR_portfolio/"><img src="./btn-portfolio.svg" alt="Portfolio: sbr-sys.github.io"></a> <a href="https://github.com/SBR-sys"><img src="./btn-github.svg" alt="GitHub: SBR-sys"></a> <a href="https://www.linkedin.com/in/sumukh-b-rampure-180635229/"><img src="./btn-linkedin.svg" alt="LinkedIn: sumukh-b-rampure"></a> <a href="mailto:sumukhbrampure@gmail.com"><img src="./btn-email.svg" alt="Email: sumukhbrampure@gmail.com"></a> </p> <img src="./sec-about.svg" alt="01 · about: Hello, I’m Sumukh." width="100%">
 
 I'm a computer engineering student in Mysuru who likes turning ideas into working software. My projects sit where backend APIs, databases and computer vision meet. Right now I'm a Software Development Intern at CodeFlurry Technologies, working on Gramshala, a WhatsApp automation project for Gram Panchayat communications.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.svg">
-    <img src="./assets/terminal.svg" alt="Terminal card. whoami: Sumukh B, AI/ML Engineer, Full-Stack Developer, Creative Technologist. Education: B.E. Computer Science Engineering, Maharaja Institute of Technology Mysore, 2023 to present. Experience: Software Development Intern at CodeFlurry Technologies, September 2026 to present. Projects: framesense, mystic-arcade, blood-bank-management-system, oralguard-ai." width="100%">
-  </picture>
-</p>
+<p align="center"> <picture> <source media="(prefers-reduced-motion: reduce)" srcset="./terminal-static.svg"> <img src="./terminal.svg" alt="Terminal card. whoami: Sumukh B, AI/ML Engineer, Full-Stack Developer, Creative Technologist. Education: B.E. Computer Science Engineering, Maharaja Institute of Technology Mysore, 2023 to present. Experience: Software Development Intern at CodeFlurry Technologies, September 2026 to present. Projects: framesense, mystic-arcade, blood-bank-management-system, oralguard-ai." width="100%"> </picture> </p>
 
-**Achievement:** 3rd Place, Mini Project Expo 2026, Department of Computer Engineering, Maharaja Institute of Technology Mysore, for FrameSense.
+Achievement: 3rd Place, Mini Project Expo 2026, Department of Computer Engineering, Maharaja Institute of Technology Mysore, for FrameSense.
 
-<img src="./assets/sec-projects.svg" alt="02 · selected work: Things I’ve built." width="100%">
+<img src="./sec-projects.svg" alt="02 · selected work: Things I’ve built." width="100%">
 
-<a href="https://github.com/SBR-sys/Framesense"><img src="./assets/proj-framesense.svg" alt="FrameSense, AI-powered FPS game performance analyzer. Python, FastAPI, OpenCV, YOLOv8. 3rd place at Mini Project Expo 2026. Click to view the repository." width="100%"></a>
+<a href="https://github.com/SBR-sys/Framesense"><img src="./proj-framesense.svg" alt="FrameSense, AI-powered FPS game performance analyzer. Python, FastAPI, OpenCV, YOLOv8. 3rd place at Mini Project Expo 2026. Click to view the repository." width="100%"></a>
 
-<a href="https://github.com/SBR-sys/Mystic_Arcade"><img src="./assets/proj-mystic.svg" alt="Mystic Arcade, gaming café management system. Python, FastAPI, MySQL, HTML, CSS. Click to view the repository." width="100%"></a>
+<a href="https://github.com/SBR-sys/Mystic_Arcade"><img src="./proj-mystic.svg" alt="Mystic Arcade, gaming café management system. Python, FastAPI, MySQL, HTML, CSS. Click to view the repository." width="100%"></a>
 
-<a href="https://github.com/SBR-sys/blood-bank-management-system"><img src="./assets/proj-bloodbank.svg" alt="Blood Bank Management System. PHP, MySQL, JavaScript, HTML, CSS. Click to view the repository." width="100%"></a>
+<a href="https://github.com/SBR-sys/blood-bank-management-system"><img src="./proj-bloodbank.svg" alt="Blood Bank Management System. PHP, MySQL, JavaScript, HTML, CSS. Click to view the repository." width="100%"></a>
 
-<img src="./assets/proj-oralguard.svg" alt="OralGuard AI, AI-based oral health detection, in development since April 2026. CNN, OpenCV, Python. No public repository yet." width="100%">
-
-<img src="./assets/sec-skills.svg" alt="03 · toolkit: What I work with." width="100%">
-
-<img src="./assets/skills.svg" alt="Skills. Languages: Java, Python, SQL, C/C++, JavaScript. Frameworks: React, Node.js, Flask, FastAPI, Django. AI and computer vision: YOLOv8, OpenCV, Computer Vision, Machine Learning. Databases: MySQL, MongoDB, PostgreSQL. Automation: n8n, RAG, MCP. Developer tools: Git, GitHub, Docker, Google Cloud Platform, VS Code." width="100%">
-
-<img src="./assets/sec-log.svg" alt="04 · commit log: Public activity." width="100%">
-
-<img src="./assets/heatmap.svg" alt="GitHub contribution heatmap for SBR-sys: 33 public contributions in the last 12 months, 8 active days, longest streak 3 days. Snapshot from 2026-10-19." width="100%">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer-static.svg">
-    <img src="./assets/footer.svg" alt="Building today. Learning every day." width="100%">
-  </picture>
-</p>
+<img src="./proj-oralguard.svg" alt="OralGuard AI, AI-based oral health detection, in development since April 2026. CNN, OpenCV, Python. No public repository yet." width="100%"> <img src="./sec-skills.svg" alt="03 · toolkit: What I work with." width="100%"> <img src="./skills.svg" alt="Skills. Languages: Java, Python, SQL, C/C++, JavaScript. Frameworks: React, Node.js, Flask, FastAPI, Django. AI and computer vision: YOLOv8, OpenCV, Computer Vision, Machine Learning. Databases: MySQL, MongoDB, PostgreSQL. Automation: n8n, RAG, MCP. Developer tools: Git, GitHub, Docker, Google Cloud Platform, VS Code." width="100%"> <img src="./sec-log.svg" alt="04 · commit log: Public activity." width="100%"> <img src="./heatmap.svg" alt="GitHub contribution heatmap for SBR-sys: 33 public contributions in the last 12 months, 8 active days, longest streak 3 days. Snapshot from 2026-10-19." width="100%"> <p align="center"> <picture> <source media="(prefers-reduced-motion: reduce)" srcset="./footer-static.svg"> <img src="./footer.svg" alt="Building today. Learning every day." width="100%"> </picture> </p>
